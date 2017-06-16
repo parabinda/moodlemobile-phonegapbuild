@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "evidyamobile",
     "siteurl": "http://test.evidya.co.in",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
