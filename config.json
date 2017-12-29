@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "evidyamobile",
-    "siteurl":"http://www.evidyapith.com",
+    "siteurl":"http://ec2-13-126-177-74.ap-south-1.compute.amazonaws.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
