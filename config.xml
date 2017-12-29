@@ -5,10 +5,10 @@
         id        = "com.evidya.evidyamobile"
         versionCode = "2017"
         version   = "1.3.0">
-    <name>eVidya BSE App</name>
+    <name>eVidya BSE Test</name>
 
     <description>
-        eVidya BSE App
+        eVidya BSE Test
     </description>
 
     <author href="http://evidya.co.in" email="info@evidya.co.in">
