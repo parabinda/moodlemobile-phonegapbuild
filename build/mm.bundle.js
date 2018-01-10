@@ -59914,7 +59914,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://ec2-13-126-177-74.ap-south-1.compute.amazonaws.com",
+    "siteurl": "https://www.evidyapith.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
 }
