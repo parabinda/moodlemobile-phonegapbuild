@@ -3,15 +3,15 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.evidya.evidyamobile"
-        versionCode = "10100"
-        version   = "1.0.0">
-    <name>eVidya BSE App</name>
+        versionCode = "10101"
+        version   = "1.0.1">
+    <name>eVidya Learning App</name>
 
     <description>
-        eVidya BSE App
+        eVidya Learning App
     </description>
 
-    <author href="http://evidyapith.com" email="info@evidyapith.com">
+    <author href="https://evidyapith.com" email="help@evidyapith.com">
         E-Vidya Excellence LLP
     </author>
 
