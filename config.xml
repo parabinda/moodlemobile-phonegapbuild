@@ -26,6 +26,8 @@
     <access origin="tel:*" launch-external="yes" />
     <access origin="mailto:*" launch-external="yes" />
     <access origin="geo:*" launch-external="yes" />
+    <access origin="whatsapp:*" launch-external="yes" />
+    <access origin="sms:*" launch-external="yes" />
 
     <allow-navigation href="cdvfile:*" />
     <allow-navigation href="content:*" />
