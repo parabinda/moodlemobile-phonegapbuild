@@ -163,6 +163,8 @@ angular.module('mm.core', ['pascalprecht.translate'])
     hreflist = addProtocolIfMissing(hreflist, 'tel');
     hreflist = addProtocolIfMissing(hreflist, 'mailto');
     hreflist = addProtocolIfMissing(hreflist, 'geo');
+	hreflist = addProtocolIfMissing(hreflist, 'whatsapp');
+//	hreflist = addProtocolIfMissing(hreflist, 'whatsapp');
     hreflist = addProtocolIfMissing(hreflist, 'filesystem'); 
     imglist = addProtocolIfMissing(imglist, 'filesystem'); 
     imglist = addProtocolIfMissing(imglist, 'file');
